@@ -45,7 +45,7 @@ namespace JeuTest
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // TODO: Add your drawing code here
-
+            GraphicsDevice.Clear(Color.Red);
             base.Draw(gameTime);
         }
     }
